@@ -8,7 +8,7 @@ This API functions as a image resizing tool using `sharp`
 
 1. 'Resize' : url/resize?filename&width&height
    
-   Example for hitting endpoint using provided images : `localhost:3000/resize/fjord&width=400&height=200`
+   Example for hitting endpoint using provided images : `localhost:3000/resize?fileName=fjord&width=400&height=200`
 
 ## Setup
 
